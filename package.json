@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js > .log 2>&1 &"
+    "start": "node alarms.js > .log 2>&1 &"
   },
   "author": "",
   "license": "ISC",
